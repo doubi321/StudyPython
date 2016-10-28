@@ -1,0 +1,16 @@
+(dp1
+S'12345678'
+p2
+(lp3
+S'wangzai'
+p4
+aI15000
+aI15000
+asS'87654321'
+p5
+(lp6
+S'doubi'
+p7
+aI9000
+aI9000
+as.

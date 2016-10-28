@@ -1,0 +1,4 @@
+stu111 xiaochen a@qq.com market      spread  11111111
+stu222 xiaowang b@qq.com technology  IT      22222222
+stu333 xiaosong c@qq.com product     PM      33333333
+stu444 xiaomei  d@qq.com technology  YW      44444444

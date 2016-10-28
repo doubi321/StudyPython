@@ -1,0 +1,14 @@
+(lp1
+(lp2
+S'wangzai'
+p3
+aS'123456'
+p4
+aI1
+aa(lp5
+S'doubi'
+p6
+aS'111111'
+p7
+aI2
+aa.
